@@ -1,0 +1,30 @@
+LeftAndMain:
+  extra_requirements_javascript:
+    - loyals-admin/javascript/loyals.js
+  extra_requirements_css:
+    - loyals-admin/css/cms/cms.css
+    - loyals-admin/css/loyals.min.css
+    - loyals-admin/css/loyals-editor.min.css
+    - loyals-admin/css/font-awesome.min.css
+  extensions:
+    - AwesomeIconExtension
+    - LoyalsAdminExtension
+    - CMSMainEditFormExtension
+
+CMSPagesController:
+  awesome_icon: sitemap
+
+AssetAdmin:
+  awesome_icon: picture-o
+
+ReportAdmin:
+  awesome_icon: bar-chart
+
+SecurityAdmin:
+  awesome_icon: user
+
+RedirectedURLAdmin:
+  awesome_icon: exchange
+
+CMSSettingsController:
+  awesome_icon: cog
