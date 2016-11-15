@@ -647,7 +647,7 @@ fieldset.switch-states .switch .slide-button {
   box-shadow: none;
   text-shadow: none;
   border-radius: 0px;
-  background-color: #0F8845;
+  background-color: #97BF0D;
   background-image: none;
 }
 
@@ -1558,7 +1558,7 @@ body.cms.ss-uploadfield-edit-iframe span.readonly,
 }
 
 .ss-uploadfield .ss-uploadfield-files .ss-uploadfield-item-start button.ui-button span.ui-icon::before {
-  color: #0F8845;
+  color: #97BF0D;
   content: "\f144";
   font-family: "FontAwesome";
   font-size: 18px;
@@ -1592,7 +1592,7 @@ body.cms.ss-uploadfield-edit-iframe span.readonly,
 }
 
 .ss-uploadfield .middleColumn .ss-uploadfield-files .ss-uploadfield-item-progressbarvalue {
-  background: #23B235 url(../images/progress.gif) scroll repeat 0 0;
+  background: #97BF0D url(../images/progress.gif) scroll repeat 0 0;
   height: 15px;
 }
 
@@ -1704,13 +1704,13 @@ form.stacked .field.SelectionGroup label {
   border: 0;
   color: #FFF;
   font-weight: 500;
-  background: #80888E;
+  background: #000000;
   text-shadow: none;
 }
 
 .cms .ss-ui-button.ui-state-hover,
 .cms .ss-ui-button:hover {
-  background: #A0A8AE;
+  background: #97BF0D;
   box-shadow: none;
 }
 
@@ -1753,13 +1753,13 @@ tr.ss-gridfield-item .ss-ui-button:active {
 .cms .ss-ui-button.ss-ui-action-constructive,
 .field.urlsegment button.update {
   font-weight: 500;
-  background: #0F8845 none;
+  background: #000000 none;
 }
 
 .cms .ss-ui-button.ss-ui-action-constructive.ui-state-hover,
 .cms .ss-ui-button.ss-ui-action-constructive:hover,
 .field.urlsegment button.update:hover {
-  background: #2FA865 none;
+  background: #97BF0D none;
 }
 
 .cms .field.urlsegment button.cancel,
@@ -1817,12 +1817,12 @@ tr.ss-gridfield-item .ss-ui-button:active {
 .cms .ss-ui-button.ui-state-focus {
   border: 0;
   box-shadow: none;
-  background: #80888E;
+  background: #97BF0D;
   text-decoration: none;
 }
 
 .cms .ss-ui-button:hover {
-  background: #A0A8AE;
+  background: #97BF0D;
 }
 
 .cms .ss-ui-button.ss-ui-action-constructive:active,
@@ -1831,7 +1831,7 @@ tr.ss-gridfield-item .ss-ui-button:active {
 .cms .ss-ui-button.ss-ui-action-constructive.ui-state-focus {
   border: 0;
   box-shadow: none;
-  background: #0F8845 none;
+  background: #97BF0D none;
   text-decoration: none;
 }
 
@@ -2282,6 +2282,7 @@ div.TreeDropdownField .treedropdownfield-toggle-panel-link a {
 .cms-menu-list .icon-reportadmin,
 .cms-menu-list .icon-securityadmin,
 .cms-menu-list .icon-redirectedurladmin,
+.cns-menu-list .icon-yearcalendaradmin,
 .cms-menu-list .icon-cmssettingscontroller,
 .cms-menu-list .icon-help,
 .cms-content-header .section-icon.icon {

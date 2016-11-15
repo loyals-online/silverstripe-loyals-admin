@@ -28,3 +28,6 @@ RedirectedURLAdmin:
 
 CMSSettingsController:
   awesome_icon: cog
+
+YearCalendarAdmin:
+  awesome_icon: calendar-o
