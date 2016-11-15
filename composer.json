@@ -1,0 +1,26 @@
+{
+  "name": "loyals-online/silverstripe-loyals-admin",
+  "description": "Loyals branded silverstripe admin interface",
+  "type": "silverstripe-module",
+  "keywords": [
+    "silverstripe",
+    "loyals",
+    "admin",
+    "layout",
+    "cms"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Jan-Pieter van der Poel",
+      "email": "jp@loyals.nl"
+    }
+  ],
+  "require": {
+    "silverstripe/framework": "~3.4"
+  },
+  "extra": {
+    "installer-name": "loyals-admin"
+  },
+  "target-dir": "loyals-admin"
+}
