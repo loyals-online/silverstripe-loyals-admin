@@ -31,3 +31,12 @@ CMSSettingsController:
 
 YearCalendarAdmin:
   awesome_icon: calendar-o
+
+ListableDataAdmin:
+  awesome_icon: table
+
+PassportAdmin:
+  awesome_icon: id-card-o
+
+JobAdmin:
+  awesome_icon: address-book-o
