@@ -40,3 +40,6 @@ PassportAdmin:
 
 JobAdmin:
   awesome_icon: address-book-o
+
+KickAssets:
+  awesome_icon: folder-open-o
